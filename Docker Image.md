@@ -5,12 +5,15 @@ Here's the process in English for managing Docker, compiling projects, creating 
 ## 1. Installing Docker Desktop
 
 **Download and Install Docker Desktop**: Go to the *[official Docker website](https://www.docker.com/products/docker-desktop)* and download the version suitable for your operating system (Windows or Mac).
+
 **Install Docker Desktop**: Run the installer and follow the installation steps.
+
 **Launch Docker Desktop**: After installation, start Docker Desktop. You may need to restart your system.
 
 ## 2. Logging into Docker Hub
 
 **Sign Up for Docker Hub**: Visit the *[Docker Hub website](https://hub.docker.com)* and create an account if you don't already have one.
+
 **Log in to Docker Desktop**: After installing Docker Desktop, log in with your Docker Hub username and password.
 
 ## 3. Compiling the Project
