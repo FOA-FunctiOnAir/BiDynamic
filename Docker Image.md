@@ -115,6 +115,7 @@ Version Management: To manage different versions of an image, you can use tags. 
 ```javascript
 docker tag your-image-name username/myapp:1.0
 ```
-Then push it with ```javascript
+Then push it with 
+```javascript
 docker push username/myapp:1.0.
 ```
